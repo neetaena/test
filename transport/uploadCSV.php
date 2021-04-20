@@ -1,5 +1,5 @@
 <?php include 'include/mySqlFunc.php'; 
-	mysqli_select_db($link, 'transport2');
+	mysqli_select_db($link, 'transport');
 ?> 
 <?php
 
