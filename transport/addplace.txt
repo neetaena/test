@@ -1,0 +1,4 @@
+<html >
+<body bgcolor= "FFFFFF">
+	<center><font color="#000000" face="angsana new"><h1><b>สถานที่จัดส่ง</b></h1></center></font>
+	<form action = "" name = "insertquarity" method = "POST">

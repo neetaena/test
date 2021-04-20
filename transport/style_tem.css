@@ -1,0 +1,15 @@
+ table, tr, td {
+    border : 1px groove ;
+    font-family:angsana new;
+    font-size: 16px;
+     border-collapse: collapse;
+}
+.table_bo{
+	margin-right: 50px;
+	float: right;
+	 font-family:angsana new;
+}
+ul li:hover a
+{
+	color: #000;
+}
